@@ -41,9 +41,14 @@ scikit-learn==0.22.1
 scipy==1.4.1
 seaborn==0.10.0
 
-spyder-kernels==1.8.1
 
 tblib==1.6.0
 tensorboard==2.2.1
 tensorflow==2.2.0
+gunicorn==19.9.0
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+Werkzeug==0.15.5
+
 
